@@ -1,6 +1,6 @@
-##Customize Udacity Environment in Unity
+## Customize Udacity Environment in Unity
 
-	For the Udacity Autonomous Car Simulator Unity Engine was choosen as base Platform.
+For the Udacity Autonomous Car Simulator Unity Engine was choosen as base Platform.
 That means that the whole project and architecture of the simulation is open and free to be changed in any way.
 The simulator itself can be found using the links below and we can choose between using it as it is with pretrained data, or choose to pull down the whole project and open it with Unity Engine to look at it closely and build a new simulation model based on our changes and customisations.
 Important thing is to install an appropriate Git manager to be able to pull the the Project without any errors and to avoid models and assets missing.
