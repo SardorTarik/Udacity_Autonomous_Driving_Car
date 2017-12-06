@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1_SelfDrivingCar/Scenes/LauncherScene.unity
+    guid: 122bdeaec1483475b8fc97c588c07408
+  - enabled: 1
+    path: Assets/1_SelfDrivingCar/Scenes/LakeTrackAutonomous.unity
+    guid: fb1178b1833174262a29217c9e7e3997
+  - enabled: 1
+    path: Assets/1_SelfDrivingCar/Scenes/LakeTrackTraining.unity
+    guid: cb500fe205b48445a9fa1c0e3bcf9b6e
+  - enabled: 1
+    path: Assets/1_SelfDrivingCar/Scenes/MenuScene.unity
+    guid: 4f9ad3000a46342c395e5d94cebb50a8
+  - enabled: 1
+    path: Assets/1_SelfDrivingCar/Scenes/ControlMenu.unity
+    guid: 30ccdbcde5c1b3c4ebee6e6257a9fad9
+  - enabled: 1
+    path: Assets/1_SelfDrivingCar/Scenes/JungleTrackAutonomous.unity
+    guid: 10696b3c4737041458cd51834c66d8ad
+  - enabled: 1
+    path: Assets/1_SelfDrivingCar/Scenes/JungleTrackTraining.unity
+    guid: 8ae5733d858a8704bbc92f8c3dd7072d
+  - enabled: 1
+    path: Assets/1_SelfDrivingCar/Scenes/HFUCorridorTraining.unity
+    guid: 25d8f7a1bd3afe8408ff11c726ecfd61
+  - enabled: 1
+    path: Assets/1_SelfDrivingCar/Scenes/HFUCorridorAutonomous.unity
+    guid: 6676a77c8ede13a45b4eddb88057dc56
