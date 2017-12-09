@@ -14139,13 +14139,18 @@ Prefab:
     - target: {fileID: 224811583697555854, guid: 8155fea7d6d959a4d9f3a224cf7800c3,
         type: 2}
       propertyPath: m_LocalPosition.x
-      value: 417.5
+      value: 308.5
       objectReference: {fileID: 0}
     - target: {fileID: 224811583697555854, guid: 8155fea7d6d959a4d9f3a224cf7800c3,
         type: 2}
       propertyPath: m_LocalPosition.y
-      value: 313
+      value: 231.5
       objectReference: {fileID: 0}
+    - target: {fileID: 114049878985846734, guid: 8155fea7d6d959a4d9f3a224cf7800c3,
+        type: 2}
+      propertyPath: carController
+      value: 
+      objectReference: {fileID: 991904117}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8155fea7d6d959a4d9f3a224cf7800c3, type: 2}
   m_IsPrefabParent: 0
